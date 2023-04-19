@@ -158,7 +158,9 @@ nav .icon-burger .line {
   letter-spacing: 1px;
   padding-left: 85px;
   padding-right: 85px;
- }
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
 
 
  #img {
@@ -176,6 +178,7 @@ nav .icon-burger .line {
     width: 100%;
   }
 }
+
 
 .who-are-we .who-are-we-text h1 {
   font-size: 100px;
@@ -199,6 +202,11 @@ nav .icon-burger .line {
   border-radius: 30px;
   padding-right: 60px;
   background: #F2B3D6;
+  box-shadow:
+  5.2px 9.8px 4.3px rgba(0, 0, 0, 0.474),
+  9px 17.2px 16.3px rgba(0, 0, 0, 0.571),
+  79px 150px 89px rgba(0, 0, 0, 0.8)
+;
 }
 
 #servucee {
@@ -208,6 +216,11 @@ nav .icon-burger .line {
   padding-left: 60px;
   border-radius: 30px;
   padding-right: 60px;
+  box-shadow:
+  5.2px 9.8px 4.3px rgba(0, 0, 0, 0.474),
+  9px 17.2px 16.3px rgba(0, 0, 0, 0.571),
+  79px 150px 89px rgba(0, 0, 0, 0.8)
+;
 }
 
 #servuceee {
@@ -216,6 +229,11 @@ nav .icon-burger .line {
   padding-bottom: 80px;
   padding-left: 60px;
   border-radius: 30px;
+  box-shadow:
+  5.2px 9.8px 4.3px rgba(0, 0, 0, 0.474),
+  9px 17.2px 16.3px rgba(0, 0, 0, 0.571),
+  79px 150px 89px rgba(0, 0, 0, 0.8)
+;
   padding-right: 60px;
 }
 
@@ -234,6 +252,7 @@ nav .icon-burger .line {
   border: none;
   font-size: 30px;
   outline: none;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
   border-radius: 10px;
   padding-top: 10px;
   font-weight: bold;
@@ -244,10 +263,17 @@ nav .icon-burger .line {
   padding-right: 85px;
  }
 
+#img-22 {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
 
  #button-3 {
   color: white;
   background: #252524;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
   border: none;
   font-size: 30px;
   outline: none;
